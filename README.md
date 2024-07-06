@@ -10,8 +10,11 @@ The computer player class will have some sort of artificial intelligence or logi
 How It Woks
 
 First select the level:
+
 Level 1 : Mercury
+
 Level 2 : Venus
+
 Level 3 : Earth
 
 After selecting level, launch the game.
